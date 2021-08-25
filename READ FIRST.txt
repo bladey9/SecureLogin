@@ -1,0 +1,16 @@
+A Register and Login Secure System
+
+Implementing the following:
+
+- Creating an account
+- Logging in to an account
+- Email Verification
+- Password Changing
+
+Security Features include:
+
+- Password Hashing using SHA-256 with a 32 random byte generator
+- SQL Injection
+- Security Questions
+- reCAPTCHA
+- CSRF Token for active session manipulation
